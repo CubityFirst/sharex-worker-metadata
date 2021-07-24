@@ -1,4 +1,6 @@
-# Cloudflare Worker for Image Host Metadata
+# ⚠️ Main Branch Code moved to github.com/ShareX/CloudflareWorkers
+
+
 
 tldr ; 
 
