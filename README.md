@@ -1,6 +1,6 @@
-# ⚠️ Main Branch Code moved to github.com/ShareX/CloudflareWorkers
+# ShareX Cloudflare Worker for Embed / HTML insertion
 
-
+⚠️ Main Branch Code moved to github.com/ShareX/CloudflareWorkers
 
 tldr ; 
 
